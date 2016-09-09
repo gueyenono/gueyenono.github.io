@@ -2,7 +2,7 @@
 title: "The Eco-Nono-Mist"
 ---
 
-<br/>
+
 <br/>
 
 <style>
@@ -27,20 +27,20 @@ img {
 <div class = "col-sm-8">
 
   
-- Currently
+- __Currently__
 
     * Ph.D. student at the Department of Economics of Auburn University
     
 ***
 
-- Contact information
+- __Contact information__
 
     * 0316D Haley Center, Auburn, AL, 36849
     * Email: nonoghislain@gmail.com
 
 ***
 
-- Areas of Interest
+- __Areas of Interest__
 
     * Time series econometrics
     * International trade
