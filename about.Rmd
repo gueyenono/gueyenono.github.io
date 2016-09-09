@@ -1,0 +1,48 @@
+---
+title: "About me"
+---
+
+<style>
+
+img {
+  float: left;
+  margin: 10px 30px 10px 10px;
+  width: 200px;
+}
+
+</style>
+
+
+<div class = "cointainer-fluid">
+
+<div class = "row">
+  
+<div class = "col-sm-3">
+<img src="pics/pic.jpg" alt="profile_pic">
+</div>
+    
+<div class = "col-sm-8">
+    
+- What I do
+
+
+I am a Ph.D. student in the Department of Economics at Auburn University (Auburn, AL). In the world of economics, my fields of interest are time series econometrics, international finance and open macroeconomics. However, I have also done some work in microeconomics related projects. I am currently a graduate instructor and have been entrusted with a variety of economics courses since the fall of 2013.
+
+I am also very much invested in the field of [data science](https://en.wikipedia.org/wiki/Data_science). I do data science with [the R statistical language](https://www.r-project.org/), which is the language I also use for econometrics. My usual data science projects involve exploratory analysis, data visualization, text mining, machine learning and other related tasks.
+
+
+- Where I come from
+
+I originally come from Côte d'Ivoire, a beautiful country located in West Africa. I am also half Cameroonian. Cameroon is another wonderful country located in Central Africa. I was born and raised in Côte d'Ivoire, which makes French my primary language.
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+

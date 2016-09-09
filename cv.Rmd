@@ -1,0 +1,96 @@
+---
+title: "Curriculum Vitae"
+---
+
+<style>
+
+.tab{
+  padding-left:5em
+}
+
+</style>
+
+***
+
+- __EDUCATION__
+
+    * Ph.D. student in Economics, Auburn University, Auburn, AL (since Fall 2013)
+    * Masters in Economics, Auburn University, Auburn, AL (Summer 2013)
+    * Bachelor of Science in Economics, Auburn University, Auburn, AL (2010)
+
+***
+
+- ___AREAS OF INTEREST___
+
+    * Time series econometrics
+    * International trade
+    * International finance
+    * Open macroeconomics
+    * Data science
+
+***
+
+<ul>
+
+<li> __TEACHING EXPERIENCE__ </li>
+
+\n
+
+<ul>
+
+\n
+
+<li> __Summary__ </li>
+
+\n
+
+<div class = "tab"> Graduate instructor at Auburn University since Fall 2013 </div>
+<div class = "tab"> Have taught a total of 13 classes (as of Fall 2016) </div>
+<div class = "tab"> Taught multiple small sections </div>
+<div class = "tab"> Taught large sections </div>
+
+\n
+
+<li> __Large sections teaching__ </li>
+
+\n
+
+<div class = "tab"> Spring 2016: class of around __150 students__ </div>
+<div class = "tab"> Fall 2015: class of around __250 students__ </div>
+<div class = "tab"> Spring 2015: class of around __250 students__ </div>
+
+\n
+
+<li> __Courses taught__ </li>
+
+\n
+
+<div class = "tab"> ECON 2020 - __Principles of Microeconomics__ </div>
+<div class = "tab"> ECON 2030 - __Principles of Macroeconomics__ </div>
+<div class = "tab"> ECON 3020 - __Intermediate Microeconomics__ </div>
+<div class = "tab"> ECON 4300 - __International Economics__ </div>
+
+</ul>
+</ul>
+
+***
+
+- __PUBLICATIONS__
+
+    * Gueye, Ghislain; Hyeongwoo Kim, and Gilad Sorek (Forthcoming), ["Pitfalls in Testing for Cointegration between Inequality and the Real Income,"](https://ideas.repec.org/p/abn/wpaper/auwp2016-07.html) Accepted, ***Economic Inquiry***.
+    
+***
+
+- __CONFERENCES__
+
+    * Nov 2015: __85th Annual Meetings of the Southern Economics Association (SEA)__, New Orleans, LA
+
+<div class = "tab"> *"Pitfalls in Testing for Cointegration between Inequality and the Real Income"* </div>
+
+***
+
+- __AFFILIATIONS__
+
+    * American Economic Association (AEA)
+    * Southern Economic Association (SEA)
+    * Foundation for Open Access Statistics (FOAS)

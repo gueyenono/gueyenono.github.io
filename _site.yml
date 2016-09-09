@@ -1,0 +1,35 @@
+name: "gueyenono"
+output_dir: "."
+navbar:
+  title: "Ghislain Nono Gueye"
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Teaching"
+      icon: fa-book
+      href: teaching.html
+    - text: "Research"
+      icon: fa-flask
+      href: research.html
+    - text: "Data science"
+      icon: fa-gear
+      menu:
+        - text: "Tutorials"
+          href: tutorials.html
+        - text: "Datasets"
+          href: datasets.html
+        - text: "My web apps"
+          href: webapps.html
+    - text: "CV"
+      icon: fa-graduation-cap
+      href: cv.html
+    - text: "About me"
+      icon: fa-info
+      href: about.html
+ 
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate

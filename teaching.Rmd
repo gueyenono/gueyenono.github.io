@@ -1,0 +1,60 @@
+---
+  title: "Teaching"
+---
+
+***
+
+- __Principles of Microeconomics__
+
+    * [Chapter 1 - Introduction to Economics](files/econ2020/1.pdf)
+    * [Chapter 2 - Demand and Supply](files/econ2020/2.pdf)
+    * [Chapter 3 - Market Dynamics](files/econ2020/3.pdf)
+    * [Chapter 4 - Elasticity](files/econ2020/4.pdf)
+    * [Chapter 5 - Costs of Production](files/econ2020/5.pdf)
+    * [Chapter 6 - Perfect Competition](files/econ2020/6.pdf)
+    * [Chapter 7 - Monopoly](files/econ2020/7.pdf)
+    * [Chapter 8 - Monopolistic Competition](files/econ2020/8.pdf)
+    * [Chapter 9 - Oligopoly and Game Theory](files/econ2020/9.pdf)
+
+***
+
+- __Principles of Macroeconomics__
+
+    * [Chapter 1 - Introduction to Economics](files/econ2030/1.pdf)
+    * [Chapter 2 - Economic Models](files/econ2030/2.pdf)
+    * [Chapter 3 - Demand and Supply](files/econ2030/3.pdf)
+    * [Chapter 4 - Market Dynamics](files/econ2030/4.pdf)
+    * [Chapter 5 - Measuring National Income](files/econ2030/5.pdf)
+    * [Chapter 6 - Unemployment](files/econ2030/6.pdf)
+    * [Chapter 7 - The Price Level and Inflation](files/econ2030/7.pdf)
+    * [Chapter 8 - The Market for Loanable Funds](files/econ2030/8.pdf)
+    * [Chapter 9 - International Trade](files/econ2030/9.pdf)
+
+***
+
+- __Intermediate Microeconomics__
+
+    * [Chapter 1]()
+    * [Chapter 2]()
+    * [Chapter 3]()
+    * [Chapter 4]()
+    * [Chapter 5]()
+    * [Chapter 6]()
+    * [Chapter 7]()
+    * [Chapter 8]()
+    * [Chapter 9]()
+
+***
+
+- __International Economics__
+
+    * [Chapter 1 - Markets & Trade]()
+    * [Chapter 2 - Gains from Trade]()
+    * [Chapter 3 - Protectionism]()
+    * [Chapter 4 - Terms of Trade]()
+    * [Chapter 5 - Trade with Constant Cost of Production]()
+    * [Chapter 6 - Factors of Production and Trade]()
+    * [Chapter 7 - International Migration and Capital]()
+    * [Chapter 8 - Balance of Payments]()
+    * [Chapter 9 - The Foreign Exchange (fx) Market]()
+

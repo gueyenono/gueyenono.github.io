@@ -1,0 +1,50 @@
+---
+title: "aka The Eco-Nono-Mist"
+---
+
+<style>
+
+img {
+  float: left;
+  margin: 10px 30px 10px 10px;
+  width: 200px;
+}
+
+</style>
+
+
+<div class = "cointainer-fluid">
+
+<div class = "row">
+  
+<div class = "col-sm-3">
+<img src="pics/pic.jpg" alt="profile_pic">
+</div>
+    
+<div class = "col-sm-8">
+
+  
+- Currently
+
+    * Ph.D. student at the Department of Economics of Auburn University
+    
+***
+
+- Contact information
+
+    * 0316D Haley Center, Auburn, AL, 36849
+    * Email: nonoghislain@gmail.com
+
+***
+
+- Areas of Interest
+
+    * Time series econometrics
+    * International trade
+    * International finance
+    * Open macroeconomics
+    * Data science
+
+</div>
+</div>
+</div>
