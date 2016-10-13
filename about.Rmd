@@ -26,7 +26,7 @@ img {
 - What I do
 
 
-I am a Ph.D. student in the Department of Economics at Auburn University (Auburn, AL). In the world of economics, my fields of interest are time series econometrics, international finance and open macroeconomics. However, I have also done some work in microeconomics related projects. I am currently a graduate instructor and have been entrusted with a variety of economics courses since the fall of 2013.
+I am a Ph.D. candidate in the Department of Economics at Auburn University (Auburn, AL). In the world of economics, my fields of interest are time series econometrics, international finance and open macroeconomics. However, I have also done some work in microeconomics related projects. I am currently a graduate instructor and have been entrusted with a variety of economics courses since the fall of 2013.
 
 I am also very much invested in the field of [data science](https://en.wikipedia.org/wiki/Data_science). I do data science with [the R statistical language](https://www.r-project.org/), which is the language I also use for econometrics. My usual data science projects involve exploratory analysis, data visualization, text mining, machine learning and other related tasks.
 
